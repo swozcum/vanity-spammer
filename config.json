@@ -1,0 +1,10 @@
+{
+  "token": "TOKEN_GİR",
+  "password": "SİFRE_GİR",
+  "server_id": "SERVER_İD",
+  "vanity": "1996",
+  "interval": 30,
+  "webhook": "WEBHOOK_GİR",
+  "webhook_name": "1996",
+  "webhook_avatar": "https://i.imgur.com/z19R9Mj.png"
+}
